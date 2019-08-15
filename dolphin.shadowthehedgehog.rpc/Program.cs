@@ -27,12 +27,12 @@ namespace Dolphin.ShadowTheHedgehog.RPC
         /* Mod loader actions. */
         public void Suspend()
         {
-            
+            _shadowRpc.Suspend();
         }
 
         public void Resume()
         {
-            
+            _shadowRpc.Resume();
         }
 
         public void Unload()
