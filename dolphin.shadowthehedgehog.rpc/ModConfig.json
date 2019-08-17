@@ -2,10 +2,10 @@
   "ModId": "dolphin.shadowthehedgehog.rpc",
   "ModName": "Dolphin Emu: Shadow The Hedgehog Rich Presence",
   "ModAuthor": "Sewer56",
-  "ModVersion": "1.0.1",
+  "ModVersion": "1.0.2",
   "ModDescription": "Discord Rich Presence Support for Shadow The Hedgehog (NTSC-U) running on Dolphin Emulator.",
   "ModDll": "Dolphin.ShadowTheHedgehog.RPC.dll",
   "ModIcon": "Preview.png",
   "ModDependencies": [],
-  "SupportedAppId": [ "Dolphin.exe" ]
+  "SupportedAppId": [ "dolphin.exe" ]
 }
